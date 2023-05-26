@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marcio Developer
+## Seja bem-vindo(a) ao perfil do Marcio Developer
 
  <div>
    <a href="https://github.com/MARCI0-Dev">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes para contato
  
 <div> 
  <a href="https://discord.gg/marcio1947#3110" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
